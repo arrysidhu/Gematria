@@ -10,6 +10,7 @@ namespace assignment5
     {
         static void Main(string[] args)
         {
+            //writing the gemetria algorithm
         }
     }
 }
